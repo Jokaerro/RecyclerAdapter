@@ -1,4 +1,4 @@
-package pro.games_box.recycleradapter;
+package ru.abstractfactory.recycleradapter;
 
 import org.junit.Test;
 

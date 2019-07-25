@@ -1,27 +1,33 @@
 <resources>
     <string name="app_name">RecyclerAdapter</string>
     <string-array name="news1">
-        <item>Эстонские волнуются</item>
-        <item>Возле берегов обнаружен непонятный шум, что это - пукающая сельд или русские подлодки?</item>
+        <item>Наука</item>
+        <item>https://i5.imageban.ru/out/2013/03/14/7e93b5f0e2ba94492c3eb274df96ed9f.png</item>
+        <item>Сколько нужно инженеров, чтобы открутить лампочку?</item>
     </string-array>
     <string-array name="news2">
         <item>Хроники Нарнии</item>
+        <item>https://i66.fastpic.ru/big/2014/1206/67/7752137853a62960db8ca1997be42867.png</item>
         <item>Участились проникновения на территорию королевства, через не установленные шкафы, ведется расследование.</item>
     </string-array>
     <string-array name="news3">
         <item>Количество превыше качества</item>
+        <item>https://i92.fastpic.ru/big/2017/0616/de/eb5c10298fc033e303fed09af366d2de.png</item>
         <item>Именно такого мнения студенты, принудительно отправленные на сбор урожая.</item>
     </string-array>
     <string-array name="news4">
         <item>Налоги растут</item>
+        <item>https://i104.fastpic.ru/big/2018/0701/a3/_f053753730210a9d9b978599170adda3.png?noht=1</item>
         <item>В среду увеличилась базовая ставка акциза на безделье, недовольные устроили ленивую голодовку.</item>
     </string-array>
     <string-array name="news5">
         <item>Волосеем</item>
+        <item>https://i101.fastpic.ru/big/2018/0120/86/_dfc199aabd76b622a85d831afa64d286.png?noht=1</item>
         <item>По неустановленной причине, рост волос населения земли ускорился до 4мм в месяц, выросли риски засорения сливов.</item>
     </string-array>
     <string-array name="news6">
         <item>Получила сливу</item>
+        <item>https://i5.imageban.ru/out/2016/07/03/2453f7c77e38a0fcdcd7e6742d4f98fd.png</item>
         <item>Любопытная Варвара в очередной раз прищемила нос изза патологического любопытства, ей уже оказана первая помощь.</item>
     </string-array>
 </resources>

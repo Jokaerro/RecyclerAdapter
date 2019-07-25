@@ -1,4 +1,4 @@
-package pro.games_box.recycleradapter;
+package ru.abstractfactory.recycleradapter;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
