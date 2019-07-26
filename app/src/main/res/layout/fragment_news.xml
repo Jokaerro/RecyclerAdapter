@@ -6,9 +6,10 @@
     tools:context="ru.abstractfactory.recycleradapter.MainActivity"
     android:background="@color/color_nal_inactive"
     >
-    <FrameLayout
-        android:id="@+id/container"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:visibility="visible"/>
 
 </RelativeLayout>
